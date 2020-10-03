@@ -28,10 +28,12 @@ The program will give you the best route between the cities depending upon your 
 
 <p>&nbsp;</p>
 
-![Cities Map](/Vacation_Itinerary/Weather_travel_map.png)       *My Cities Map*
+![Cities Map](/Vacation_Itinerary/Weather_travel_map.png)       
+*My Cities Map*
 
 <p>&nbsp;</p>
 
-![Cities Map](/Vacation_Itinerary/Weather_travel_map_markers.png)       *City Markers*
+![Cities Map](/Vacation_Itinerary/Weather_travel_map_markers.png)       
+*City Markers*
 
 Please feel free to provide me with your suggestions. Thank you. 
